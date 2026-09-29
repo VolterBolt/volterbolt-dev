@@ -167,8 +167,8 @@ This profile is a record of my development journey.
 - [x] Boolean logic
 - [x] Loops
 - [x] Functions
-- [ ] Arrays
-- [ ] Objects
+- [x] Arrays
+- [x] Objects
 - [ ] Advanced functions
 - [ ] Modules
 - [ ] Async JavaScript
