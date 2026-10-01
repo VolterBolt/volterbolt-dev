@@ -1,0 +1,37 @@
+# Experimental configuration draft.
+# Not production configuration.
+
+gui:
+  main:
+    rows: 6
+    title: "&8✦ &6Volter Shop"
+  category:
+    rows: 6
+
+economy:
+  provider: VAULT
+  format: "$%.2f"
+
+categories:
+  blocks:
+    name: "&a&lBlocks"
+    icon: GRASS_BLOCK
+    slot: 11
+    items:
+      - { material: STONE, buy: 10, sell: 2 }
+      - { material: COBBLESTONE, buy: 8, sell: 1 }
+
+  food:
+    name: "&6&lFood"
+    icon: BREAD
+    slot: 13
+    items:
+      - { material: BREAD, buy: 15, sell: 4 }
+
+  ores:
+    name: "&b&lOres"
+    icon: DIAMOND
+    slot: 15
+    items:
+      - { material: COAL, buy: 20, sell: 8 }
+      - { material: DIAMOND, buy: 300, sell: 100 }
