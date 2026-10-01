@@ -7,7 +7,7 @@ Code here must be compiled, tested, reviewed, and explicitly approved before
 being implemented into the stable plugin.
 
 ## Development Tree
-
+```
 Volter_Shop_Development/
 ├── README.md
 ├── docs/
@@ -21,7 +21,7 @@ Volter_Shop_Development/
 │                   ├── gui/
 │                   └── shop/
 └── config-draft.yml
-
+```
 ## Workflow
 
 1. Design
